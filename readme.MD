@@ -6,7 +6,7 @@ The latest version of [Expo CLI](https://github.com/expo/expo-cli) (v2+) replace
 
 Kudos to [Jan Aagard](https://github.com/janaagaard75) and his version https://github.com/janaagaard75/expo-and-typescript that provided the inspiration. 
 
->_WOMM™[^1] version reference_
+>_WOMM™<sup>[(1)](#f1)<sup> version reference_
 >
 >| App        | Version |
 >| ---------- | ------- |
@@ -95,10 +95,10 @@ $ yarn start
 
 ## Result
 
-![screenshot](/Users/wayne/Desktop/screenshot.png)
+![Expo App](https://raw.githubusercontent.com/wainage/React-Native-TypeScript-Expo-CLI/master/screenshot.png)
 
 If you're having issues getting it started, have a look at the source code above. It produced the screenshot above.
 
 
 
-[^1]: Works on My Machine
+<sup id="f1">[1]: Works on My Machine<sup>
