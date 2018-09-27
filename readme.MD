@@ -6,14 +6,14 @@ The latest version of [Expo CLI](https://github.com/expo/expo-cli) (v2+) replace
 
 Kudos to [Jan Aagard](https://github.com/janaagaard75) and his version https://github.com/janaagaard75/expo-and-typescript that provided the inspiration. 
 
->_<abbr title="Works on My Machine">WOMM<abbr>™_ _version reference_
+>_WOMM™[^1] version reference_
 >
-> | App        | Version |
-> | ---------- | ------- |
-> | Node       | 10.11.0 |
-> | TypeScript | 3.0.3   |
-> | Expo CLI   | 2.1.3   |
-> | Expo       | 30.0.1  |
+>| App        | Version |
+>| ---------- | ------- |
+>| Node       | 10.11.0 |
+>| TypeScript | 3.0.3   |
+>| Expo CLI   | 2.1.3   |
+>| Expo       | 30.0.1  |
 
 ## Recipe
 
@@ -95,6 +95,10 @@ $ yarn start
 
 ## Result
 
-![Running Expo app built with TypeScript](./screenshot.png)
+![screenshot](/Users/wayne/Desktop/screenshot.png)
 
 If you're having issues getting it started, have a look at the source code above. It produced the screenshot above.
+
+
+
+[^1]: Works on My Machine
