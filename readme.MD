@@ -74,9 +74,9 @@ _app.json_
 {
     "expo": {
         "packagerOpts": {
-            "sourceExts": ["ts", "tsx"]
-        },
-        "transformer": "node_modules/react-native-typescript-transformer/index.js"
+          "sourceExts": ["ts", "tsx"],
+          "transformer": "node_modules/react-native-typescript-transformer/index.js"
+        }
     }
 }
 ```
